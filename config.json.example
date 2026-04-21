@@ -1,0 +1,13 @@
+{
+  "api_id": "YOUR_API_ID",
+  "api_hash": "YOUR_API_HASH",
+  "phone": "+1234567890",
+  "download_path": "downloads",
+  "max_parallel_downloads": 3,
+  "chunk_size_kb": 512,
+  "max_retries": 5,
+  "retry_delay_seconds": 3,
+  "size_warning_mb": 500,
+  "session_name": "telegram_session",
+  "connection_timeout_seconds": 30
+}

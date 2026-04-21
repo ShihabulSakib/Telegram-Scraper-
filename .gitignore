@@ -1,0 +1,36 @@
+# Credentials & Session
+config.json
+*.session
+*.session-journal
+
+# Data & Downloads
+.telegram_tools_data/
+downloads/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
